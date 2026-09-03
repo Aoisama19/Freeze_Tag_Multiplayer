@@ -1,13 +1,10 @@
 # Baraf-Paani — Multiplayer
 
 The networked build of *Baraf-Paani*, a 3D freeze-tag game in Unity and C#.
-*Baraf-Paani* ("ice-water") is the South Asian playground version of freeze tag:
+*Baraf-Paani* is the South Asian playground version of freeze tag:
 a catcher freezes runners on touch, and runners free frozen teammates by reaching
 them first.
 
-**All gameplay and networking code in `Assets/_C#/`, `Assets/UI/Scripts/` and
-`Assets/zzzzz multiplayer/Scripts/` is hand-written by me.** The project also
-bundles third-party Unity assets and packages, which are not.
 
 Built as my final-year BSc Software Engineering project.
 
